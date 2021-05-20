@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChristofB7
+- 👀 I’m interested in App Design, Game Design, and Software Engineering.
+- 🌱 I’m currently learning C++ Graphics.
+- 💞️ I’m looking to collaborate on making games
+- 📫 You can email me at christof@jazab.com
