@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ChristofB7
-- My Website is: https://christofbelisle.com
-- 👀 I’m interested in App Design, Game Design, and Software Engineering.
-- 🌱 I’m currently learning C++ Graphics.
-- 💞️ I’m looking to collaborate on making games
-- 📫 You can email me at christof@jazab.com
-- 
+- 🌐 My Website is: https://christofbelisle.com
+- 👀 I am actively searching for a job
+- 👨‍💻 Software Engineer 📱 App Designer 🎮 Game Designer 
