@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ChristofB7
 - 🌐 My Website is: https://christofbelisle.com
 - 👀 I am actively searching for a job
-- 👨‍💻 Software Engineer 📱 App Designer 🎮 Game Designer 
+- 👨‍💻 Web Dev
